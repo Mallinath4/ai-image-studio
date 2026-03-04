@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
+
+# Generated images
+generated_images/
+
+# FAISS index data
+data/rag_store/index.faiss
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,51 @@
+[
+  {
+    "original_prompt": "A white cat is sitting in woofen chair in room with sliding window shadow sunlight.\n",
+    "enhanced_prompt": "A white cat is sitting in woofen chair in room with sliding window shadow sunlight.\n, photorealistic, 8k, ultra detailed, natural lighting, sharp focus",
+    "theme": "Realistic",
+    "image_path": "history/images\\flux_realistic_20260228_211751_s2517315211.png",
+    "timestamp": "2026-02-28T21:17:52.490300"
+  },
+  {
+    "original_prompt": "A white dog sitting in wooden chair in room with sliding window and shadow sunlight\n",
+    "enhanced_prompt": "A white dog sitting in wooden chair in room with sliding window and shadow sunlight\n, photorealistic, 8k, ultra detailed, natural lighting, sharp focus",
+    "theme": "Realistic",
+    "image_path": "history/images\\flux_realistic_20260228_220147_s2414865509.png",
+    "timestamp": "2026-02-28T22:01:48.049627"
+  },
+  {
+    "original_prompt": "A white dog sitting in wooden chair in room with sliding window and shadow sunlight\n",
+    "enhanced_prompt": "A white dog sitting in wooden chair in room with sliding window and shadow sunlight\n, anime style, cel shading, vibrant colors, clean outlines",
+    "theme": "Animated",
+    "image_path": "history/images\\flux_animated_20260228_220154_s2024414206.png",
+    "timestamp": "2026-02-28T22:01:54.415387"
+  },
+  {
+    "original_prompt": "A white dog sitting in wooden chair in room with sliding window and shadow sunlight\n",
+    "enhanced_prompt": "A white dog sitting in wooden chair in room with sliding window and shadow sunlight\n, fairy-tale illustration, whimsical, storybook, dreamy colors",
+    "theme": "Fairy Tale",
+    "image_path": "history/images\\flux_fairy tale_20260228_220200_s1069278411.png",
+    "timestamp": "2026-02-28T22:02:01.022748"
+  },
+  {
+    "original_prompt": "A white dog sitting in wooden chair in room with sliding window and shadow sunlight\n",
+    "enhanced_prompt": "A white dog sitting in wooden chair in room with sliding window and shadow sunlight\n, ancient painting, muted earthy tones, historical art style",
+    "theme": "Ancient",
+    "image_path": "history/images\\flux_ancient_20260228_220207_s1572261699.png",
+    "timestamp": "2026-02-28T22:02:07.276569"
+  },
+  {
+    "original_prompt": "A cute girl and boy sitting in cafe and enjoying",
+    "enhanced_prompt": "A cute girl and boy sitting in cafe and enjoying, photorealistic, 8k, ultra detailed, natural lighting, sharp focus",
+    "theme": "Realistic",
+    "image_path": "history/images\\flux_realistic_20260304_124555_s454825462.png",
+    "timestamp": "2026-03-04T12:45:55.880573"
+  },
+  {
+    "original_prompt": "A cute girl and boy sitting in cafe and enjoying",
+    "enhanced_prompt": "A cute girl and boy sitting in cafe and enjoying, anime style, cel shading, vibrant colors, clean outlines",
+    "theme": "Animated",
+    "image_path": "history/images\\flux_animated_20260304_124557_s2653868444.png",
+    "timestamp": "2026-03-04T12:45:58.161535"
+  }
+]
